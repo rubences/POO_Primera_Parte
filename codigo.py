@@ -1,10 +1,3 @@
-# Conceptos_Clave_T1
-
-En este [repositorio](https://github.com/Xavitheforce/Conceptos_Clave_T1) quedan resueltos los conceptos claves del Tema 1.
-
-El código empleado para resolverlo es el siguiente:
-
-```python
 import math
 import re
 
@@ -74,4 +67,3 @@ class Rectangulo:
     def area(Puntoinicial, Puntofinal):
         a, b = Rectangulo.base(Puntoinicial, Puntofinal)
         return (Rectangulo.altura(Puntoinicial, Puntofinal)*Punto.distancia(a,b))
- ```
